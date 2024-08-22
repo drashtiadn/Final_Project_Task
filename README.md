@@ -35,7 +35,6 @@ You can watch the demo of the Intelligent Bus Inquiry Assistance Chat Bot [here]
 ``` bash
 ├── main.py                    # FastAPI application file
 ├── app.py                     # Streamlit interface file
-├── models.py                  # Database models
 ├── .env                       # Environment variables file
 ├── requirements.txt           # List of dependencies
 └── README.md                  # Project documentation (this file)
