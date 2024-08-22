@@ -1,0 +1,12 @@
+python
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+langchainhub 
+wikipedia
+tavily-python
+fastapi
+uvicorn
+sqlalchemy
